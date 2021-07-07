@@ -7,7 +7,8 @@
     "MSRP": "58.99",
     "QTYONHAND": "10",
     "QTYONBACK": "30",
-    "DESC": "SUPREME BEANIE WITH A DEVIL LOGO"
+    "DESC": "SUPREME BEANIE WITH A DEVIL LOGO",
+    "ID" : "SUP1"
   },
   {
     "BRAND": "SUPREME",
@@ -17,7 +18,8 @@
     "MSRP": "99.99",
     "QTYONHAND": "30",
     "QTYONBACK": "60",
-    "DESC": "SUPREME BOX LOGO SHIRT"
+    "DESC": "SUPREME BOX LOGO SHIRT",
+    "ID" : "SUP2"
   },
   {
     "BRAND": "SUPREME",
@@ -27,7 +29,8 @@
     "MSRP": "200.99",
     "QTYONHAND": "30",
     "QTYONBACK": "60",
-    "DESC": "SUPREME BOX LOGO CROWBAR"
+    "DESC": "SUPREME BOX LOGO CROWBAR",
+    "ID" : "SUP3"
   },
   {
     "BRAND": "GUCCI",
@@ -37,7 +40,8 @@
     "MSRP": "300.99",
     "QTYONHAND": "10",
     "QTYONBACK": "50",
-    "DESC": "GUCCI TRACK SUIT"
+    "DESC": "GUCCI TRACK SUIT",
+    "ID" : "GUC1"
   },
   {
     "BRAND": "GUCCI",
@@ -47,7 +51,8 @@
     "MSRP": "64.99",
     "QTYONHAND": "2000",
     "QTYONBACK": "50",
-    "DESC": "GUCCI FACE MASK"
+    "DESC": "GUCCI FACE MASK",
+    "ID" : "GUC2"
   },
   {
     "BRAND": "GUCCI",
@@ -57,7 +62,8 @@
     "MSRP": "100.17",
     "QTYONHAND": "200",
     "QTYONBACK": "70",
-    "DESC": "GUCCI HOODIE COLLAB WITH GUCCI MANE"
+    "DESC": "GUCCI HOODIE COLLAB WITH GUCCI MANE",
+    "ID" : "GUC3"
   },
   {
     "BRAND": "FILA",
@@ -67,7 +73,8 @@
     "MSRP": "100.99",
     "QTYONHAND": "10",
     "QTYONBACK": "50",
-    "DESC": "FILA FANNY PACK"
+    "DESC": "FILA FANNY PACK",
+    "ID" : "FIL1"
   },
   {
     "BRAND": "FILA",
@@ -77,7 +84,8 @@
     "MSRP": "64.99",
     "QTYONHAND": "100",
     "QTYONBACK": "20",
-    "DESC": "FILA BRANDED SHOES"
+    "DESC": "FILA BRANDED SHOES",
+    "ID" : "FIL2"
   },
   {
     "BRAND": "FILA",
@@ -87,7 +95,8 @@
     "MSRP": "120.99",
     "QTYONHAND": "200",
     "QTYONBACK": "70",
-    "DESC": "FILA BRANDED HOODIE"
+    "DESC": "FILA BRANDED HOODIE",
+    "ID": "FIL3"
   }
 
 ]
