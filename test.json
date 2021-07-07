@@ -1,0 +1,93 @@
+﻿[
+  {
+    "BRAND": "SUPREME",
+    "PRODNAME": "BEANIE",
+    "GRAPHNAME": "DEVIL",
+    "COST": "44.99",
+    "MSRP": "58.99",
+    "QTYONHAND": "10",
+    "QTYONBACK": "30",
+    "DESC": "SUPREME BEANIE WITH A DEVIL LOGO"
+  },
+  {
+    "BRAND": "SUPREME",
+    "PRODNAME": "T-SHIRT",
+    "GRAPHNAME": "BOX LOGO",
+    "COST": "50.99",
+    "MSRP": "99.99",
+    "QTYONHAND": "30",
+    "QTYONBACK": "60",
+    "DESC": "SUPREME BOX LOGO SHIRT"
+  },
+  {
+    "BRAND": "SUPREME",
+    "PRODNAME": "CROW BAR",
+    "GRAPHNAME": "BOX LOGO",
+    "COST": "30.99",
+    "MSRP": "200.99",
+    "QTYONHAND": "30",
+    "QTYONBACK": "60",
+    "DESC": "SUPREME BOX LOGO CROWBAR"
+  },
+  {
+    "BRAND": "GUCCI",
+    "PRODNAME": "TRACK SUIT",
+    "GRAPHNAME": "STANDARD LOGO",
+    "COST": "20.99",
+    "MSRP": "300.99",
+    "QTYONHAND": "10",
+    "QTYONBACK": "50",
+    "DESC": "GUCCI TRACK SUIT"
+  },
+  {
+    "BRAND": "GUCCI",
+    "PRODNAME": "FACE MASK",
+    "GRAPHNAME": "STANDARD LOGO",
+    "COST": "2.99",
+    "MSRP": "64.99",
+    "QTYONHAND": "2000",
+    "QTYONBACK": "50",
+    "DESC": "GUCCI FACE MASK"
+  },
+  {
+    "BRAND": "GUCCI",
+    "PRODNAME": "HOODIE",
+    "GRAPHNAME": "GUCCI MANE COLLABORATION",
+    "COST": "10.17",
+    "MSRP": "100.17",
+    "QTYONHAND": "200",
+    "QTYONBACK": "70",
+    "DESC": "GUCCI HOODIE COLLAB WITH GUCCI MANE"
+  },
+  {
+    "BRAND": "FILA",
+    "PRODNAME": "FANNY PACK",
+    "GRAPHNAME": "STANDARD LOGO",
+    "COST": "20.99",
+    "MSRP": "100.99",
+    "QTYONHAND": "10",
+    "QTYONBACK": "50",
+    "DESC": "FILA FANNY PACK"
+  },
+  {
+    "BRAND": "FILA",
+    "PRODNAME": "SHOES",
+    "GRAPHNAME": "STANDARD LOGO",
+    "COST": "20.99",
+    "MSRP": "64.99",
+    "QTYONHAND": "100",
+    "QTYONBACK": "20",
+    "DESC": "FILA BRANDED SHOES"
+  },
+  {
+    "BRAND": "FILA",
+    "PRODNAME": "HOODIE",
+    "GRAPHNAME": "STANDARD LOGO",
+    "COST": "60.99",
+    "MSRP": "120.99",
+    "QTYONHAND": "200",
+    "QTYONBACK": "70",
+    "DESC": "FILA BRANDED HOODIE"
+  }
+
+]
