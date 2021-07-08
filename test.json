@@ -57,7 +57,7 @@
   {
     "BRAND": "GUCCI",
     "PRODNAME": "TRACK SUIT",
-    "GRAPHNAME": "STANDARD LOGO",
+    "GRAPHNAME": "../src/assets/GUCCI_TRACKSUIT.jpeg",
     "COST": "20.99",
     "MSRP": "300.99",
     "QTYONHAND": "10",
@@ -67,25 +67,47 @@
   },
   {
     "BRAND": "GUCCI",
-    "PRODNAME": "FACE MASK",
-    "GRAPHNAME": "STANDARD LOGO",
+    "PRODNAME": "BELT",
+    "GRAPHNAME": "../src/assets/GUCCI_BELT.jpg",
     "COST": "2.99",
     "MSRP": "64.99",
     "QTYONHAND": "2000",
     "QTYONBACK": "50",
-    "DESC": "GUCCI FACE MASK",
+    "DESC": "GUCCI BLACK RED AND GREEN BELT",
     "ID" : "GUC2"
   },
   {
     "BRAND": "GUCCI",
     "PRODNAME": "HOODIE",
-    "GRAPHNAME": "GUCCI MANE COLLABORATION",
+    "GRAPHNAME": "../src/assets/GUCCI_HOODIE.jpg",
     "COST": "10.17",
     "MSRP": "100.17",
     "QTYONHAND": "200",
     "QTYONBACK": "70",
-    "DESC": "GUCCI HOODIE COLLAB WITH GUCCI MANE",
+    "DESC": "BLACK HOODIE",
     "ID" : "GUC3"
+  },
+   {
+    "BRAND": "GUCCI",
+    "PRODNAME": "SCREENER SHOES",
+    "GRAPHNAME": "../src/assets/GUCCI_OLD_SHOES.jpeg",
+    "COST": "100.99",
+    "MSRP": "100.99",
+    "QTYONHAND": "200",
+    "QTYONBACK": "800",
+    "DESC": "SHOES DESIGNED TO LOOK DIRTY",
+    "ID" : "GUC4"
+  },
+   {
+    "BRAND": "GUCCI",
+    "PRODNAME": "PHONE CASE",
+    "GRAPHNAME": "../src/assets/GUCCI_PHONE.jpg",
+    "COST": "2.99",
+    "MSRP": "475.99",
+    "QTYONHAND": "1000",
+    "QTYONBACK": "10",
+    "DESC": "SHOES DESIGNED TO LOOK DIRTY",
+    "ID" : "GUC5"
   },
   {
     "BRAND": "FILA",
