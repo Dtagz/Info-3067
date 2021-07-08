@@ -1,36 +1,58 @@
 ﻿[
   {
     "BRAND": "SUPREME",
-    "PRODNAME": "BEANIE",
-    "GRAPHNAME": "DEVIL",
+    "PRODNAME": "DEVIL HAT",
+    "GRAPHNAME": "../src/assets/SUPREME_DEVIL_HAT.jpg",
     "COST": "44.99",
     "MSRP": "58.99",
     "QTYONHAND": "10",
     "QTYONBACK": "30",
-    "DESC": "SUPREME BEANIE WITH A DEVIL LOGO",
+    "DESC": "RED AND WHITE SUPREME DEVIL HAT",
     "ID" : "SUP1"
   },
   {
     "BRAND": "SUPREME",
-    "PRODNAME": "T-SHIRT",
-    "GRAPHNAME": "BOX LOGO",
+    "PRODNAME": "BOX LOGO SWEATSHIRT",
+    "GRAPHNAME": "../src/assets/SUPREME_BOGO.jpg",
     "COST": "50.99",
     "MSRP": "99.99",
     "QTYONHAND": "30",
     "QTYONBACK": "60",
-    "DESC": "SUPREME BOX LOGO SHIRT",
+    "DESC": "WHITE SUPREME BOX LOGO SWEATSHIRT",
     "ID" : "SUP2"
   },
   {
     "BRAND": "SUPREME",
     "PRODNAME": "CROW BAR",
-    "GRAPHNAME": "BOX LOGO",
+    "GRAPHNAME": "../src/assets/SUPREME_CROWBAR.jpg",
     "COST": "30.99",
     "MSRP": "200.99",
     "QTYONHAND": "30",
     "QTYONBACK": "60",
     "DESC": "SUPREME BOX LOGO CROWBAR",
     "ID" : "SUP3"
+  },
+    {
+    "BRAND": "SUPREME",
+    "PRODNAME": "BRICK",
+    "GRAPHNAME": "../src/assets/SUPREME_BRICK.jpg",
+    "COST": "10.99",
+    "MSRP": "1000.99",
+    "QTYONHAND": "40",
+    "QTYONBACK": "90",
+    "DESC": "SUPREME BRICK",
+    "ID" : "SUP4"
+  },
+  {
+    "BRAND": "SUPREME",
+    "PRODNAME": "Fire Extinguisher",
+    "GRAPHNAME": "../src/assets/SUPREME_FIRE.jpg",
+    "COST": "30.99",
+    "MSRP": "1000.99",
+    "QTYONHAND": "50",
+    "QTYONBACK": "100",
+    "DESC": "SUPREME RED FIRE EXTINGUISHER",
+    "ID" : "SUP5"
   },
   {
     "BRAND": "GUCCI",
