@@ -112,7 +112,7 @@
   {
     "BRAND": "FILA",
     "PRODNAME": "FANNY PACK",
-    "GRAPHNAME": "STANDARD LOGO",
+    "GRAPHNAME": "../src/assets/fila_fanny_pack.jpg",
     "COST": "20.99",
     "MSRP": "100.99",
     "QTYONHAND": "10",
@@ -123,24 +123,46 @@
   {
     "BRAND": "FILA",
     "PRODNAME": "SHOES",
-    "GRAPHNAME": "STANDARD LOGO",
+    "GRAPHNAME": "../src/assets/FILA_SHOES.jpg",
     "COST": "20.99",
     "MSRP": "64.99",
     "QTYONHAND": "100",
     "QTYONBACK": "20",
-    "DESC": "FILA BRANDED SHOES",
+    "DESC": "WHITE SHOES",
     "ID" : "FIL2"
   },
   {
     "BRAND": "FILA",
     "PRODNAME": "HOODIE",
-    "GRAPHNAME": "STANDARD LOGO",
+    "GRAPHNAME": "../src/assets/FILA_HOODIE.jpg",
     "COST": "60.99",
     "MSRP": "120.99",
     "QTYONHAND": "200",
     "QTYONBACK": "70",
     "DESC": "FILA BRANDED HOODIE",
     "ID": "FIL3"
+  },
+     {
+    "BRAND": "FILA",
+    "PRODNAME": "T-SHIRT",
+    "GRAPHNAME": "../src/assets/FILA_TSHIRT.jpg",
+    "COST": "10.99",
+    "MSRP": "35.99",
+    "QTYONHAND": "10",
+    "QTYONBACK": "90",
+    "DESC": "BLACK T-SHIRT",
+    "ID": "FIL4"
+  },
+     {
+    "BRAND": "FILA",
+    "PRODNAME": "YELLOW SHOES",
+    "GRAPHNAME": "../src/assets/FILA_YELLOW_SHOES.jpg",
+    "COST": "25.99",
+    "MSRP": "45.99",
+    "QTYONHAND": "200",
+    "QTYONBACK": "70",
+    "DESC": "FILA BRANDED YELLOW SHOES",
+    "ID": "FIL5"
   }
 
 ]
