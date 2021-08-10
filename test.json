@@ -2,7 +2,7 @@
   {
     "BRAND": "SUPREME",
     "PRODNAME": "DEVIL HAT",
-    "GRAPHNAME": "../src/assets/SUPREME_DEVIL_HAT.jpg",
+    "GRAPHNAME": "img/SUPREME_DEVIL_HAT.jpg",
     "COST": "44.99",
     "MSRP": "58.99",
     "QTYONHAND": "10",
@@ -13,7 +13,7 @@
   {
     "BRAND": "SUPREME",
     "PRODNAME": "BOX LOGO SWEATSHIRT",
-    "GRAPHNAME": "../src/assets/SUPREME_BOGO.jpg",
+    "GRAPHNAME": "img/SUPREME_BOGO.jpg",
     "COST": "50.99",
     "MSRP": "99.99",
     "QTYONHAND": "30",
@@ -24,7 +24,7 @@
   {
     "BRAND": "SUPREME",
     "PRODNAME": "CROW BAR",
-    "GRAPHNAME": "../src/assets/SUPREME_CROWBAR.jpg",
+    "GRAPHNAME": "img/SUPREME_CROWBAR.jpg",
     "COST": "30.99",
     "MSRP": "200.99",
     "QTYONHAND": "30",
@@ -35,7 +35,7 @@
     {
     "BRAND": "SUPREME",
     "PRODNAME": "BRICK",
-    "GRAPHNAME": "../src/assets/SUPREME_BRICK.jpg",
+    "GRAPHNAME": "img/SUPREME_BRICK.jpg",
     "COST": "10.99",
     "MSRP": "1000.99",
     "QTYONHAND": "40",
@@ -46,7 +46,7 @@
   {
     "BRAND": "SUPREME",
     "PRODNAME": "Fire Extinguisher",
-    "GRAPHNAME": "../src/assets/SUPREME_FIRE.jpg",
+    "GRAPHNAME": "img/SUPREME_FIRE.jpg",
     "COST": "30.99",
     "MSRP": "1000.99",
     "QTYONHAND": "50",
@@ -57,7 +57,7 @@
   {
     "BRAND": "GUCCI",
     "PRODNAME": "TRACK SUIT",
-    "GRAPHNAME": "../src/assets/GUCCI_TRACKSUIT.jpeg",
+    "GRAPHNAME": "img/GUCCI_TRACKSUIT.jpeg",
     "COST": "20.99",
     "MSRP": "300.99",
     "QTYONHAND": "10",
@@ -68,7 +68,7 @@
   {
     "BRAND": "GUCCI",
     "PRODNAME": "BELT",
-    "GRAPHNAME": "../src/assets/GUCCI_BELT.jpg",
+    "GRAPHNAME": "img/GUCCI_BELT.jpg",
     "COST": "2.99",
     "MSRP": "64.99",
     "QTYONHAND": "2000",
@@ -79,7 +79,7 @@
   {
     "BRAND": "GUCCI",
     "PRODNAME": "HOODIE",
-    "GRAPHNAME": "../src/assets/GUCCI_HOODIE.jpg",
+    "GRAPHNAME": "img/GUCCI_HOODIE.jpg",
     "COST": "10.17",
     "MSRP": "100.17",
     "QTYONHAND": "200",
@@ -90,7 +90,7 @@
    {
     "BRAND": "GUCCI",
     "PRODNAME": "SCREENER SHOES",
-    "GRAPHNAME": "../src/assets/GUCCI_OLD_SHOES.jpeg",
+    "GRAPHNAME": "img/GUCCI_OLD_SHOES.jpeg",
     "COST": "100.99",
     "MSRP": "100.99",
     "QTYONHAND": "200",
@@ -101,7 +101,7 @@
    {
     "BRAND": "GUCCI",
     "PRODNAME": "PHONE CASE",
-    "GRAPHNAME": "../src/assets/GUCCI_PHONE.jpg",
+    "GRAPHNAME": "img/GUCCI_PHONE.jpg",
     "COST": "2.99",
     "MSRP": "475.99",
     "QTYONHAND": "1000",
@@ -112,7 +112,7 @@
   {
     "BRAND": "FILA",
     "PRODNAME": "FANNY PACK",
-    "GRAPHNAME": "../src/assets/fila_fanny_pack.jpg",
+    "GRAPHNAME": "img/fila_fanny_pack.jpg",
     "COST": "20.99",
     "MSRP": "100.99",
     "QTYONHAND": "10",
@@ -123,7 +123,7 @@
   {
     "BRAND": "FILA",
     "PRODNAME": "SHOES",
-    "GRAPHNAME": "../src/assets/FILA_SHOES.jpg",
+    "GRAPHNAME": "img/FILA_SHOES.jpg",
     "COST": "20.99",
     "MSRP": "64.99",
     "QTYONHAND": "100",
@@ -134,7 +134,7 @@
   {
     "BRAND": "FILA",
     "PRODNAME": "HOODIE",
-    "GRAPHNAME": "../src/assets/FILA_HOODIE.jpg",
+    "GRAPHNAME": "img/FILA_HOODIE.jpg",
     "COST": "60.99",
     "MSRP": "120.99",
     "QTYONHAND": "200",
@@ -145,7 +145,7 @@
      {
     "BRAND": "FILA",
     "PRODNAME": "T-SHIRT",
-    "GRAPHNAME": "../src/assets/FILA_TSHIRT.jpg",
+    "GRAPHNAME": "img/FILA_TSHIRT.jpg",
     "COST": "10.99",
     "MSRP": "35.99",
     "QTYONHAND": "10",
@@ -156,7 +156,7 @@
      {
     "BRAND": "FILA",
     "PRODNAME": "YELLOW SHOES",
-    "GRAPHNAME": "../src/assets/FILA_YELLOW_SHOES.jpg",
+    "GRAPHNAME": "img/FILA_YELLOW_SHOES.jpg",
     "COST": "25.99",
     "MSRP": "45.99",
     "QTYONHAND": "200",
